@@ -7,15 +7,15 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
   <img width="12" />
